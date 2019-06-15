@@ -1,0 +1,31 @@
+Cybers 0 4
+Cybers 0 7
+Cybers 1 2
+Cybers 2 4
+Cybers 3 1
+Cybers 3 6
+Cybers 4 2
+Cybers 5 3
+Cybers 6 2
+Cybers 7 4
+Pared 1 1
+Pared 1 5
+Pared 2 1
+Pared 2 6
+Pared 3 2
+Pared 3 7
+Pared 4 7
+Pared 5 5
+Pared 6 4
+Pared 6 7
+Pared 7 1
+Pared 7 2
+Inicial
+Beeper 0 0
+Beeper 3 0
+Beeper 4 4
+Final
+Beeper 0 0
+Beeper 3 0
+Beeper 4 4
+ARTURITO 1 0
